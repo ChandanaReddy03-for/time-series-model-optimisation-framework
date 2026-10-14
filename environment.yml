@@ -1,0 +1,13 @@
+name: dashboard_new
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - dash=2.9.3
+  - dash-bootstrap-components=1.4.1
+  - yfinance=0.2.18
+  - plotly=5.14.1
+  - pandas=1.5.3
+  - statsmodels=0.13.5
+  - flask=2.2.5
